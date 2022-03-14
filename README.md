@@ -9,3 +9,6 @@ NLP Summarization Models Demo App.
 
 ### Browse App
 Open http://127.0.0.1:5000/ on browser.
+
+### Preview:
+![Screenshot](screenshot.jpg)
