@@ -1,7 +1,7 @@
 # Accurator Demo
 NLP Summarization Models Demo App.
 
-### Install
+### Install Libraries
 `python -m pip install -r requirements.txt`
 
 ### Run App
