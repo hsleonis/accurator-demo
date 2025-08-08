@@ -2,6 +2,22 @@
 
 A Flask-based web application for **comparative text summarization** with user feedback collection. This demo allows users to process articles from URLs or custom text, generate summaries using multiple AI models, and evaluate their quality through interactive feedback mechanisms.
 
+Here’s the overall repo structure for the research project:
+
+accurator-demo/
+├── app/                     # Application-specific code for the demo (API, web app, UI components)
+├── data/                    # Dataset files (XML, CSV etc.) used for model training/analysis
+├── notebooks/               # Original Jupyter notebooks (now refactored into src/ scripts)
+├── src/                     # Refactored, production-ready Python scripts from notebooks
+├── .gitignore               # Git ignore rules
+├── README.md                # This documentation
+├── config.py                 # Configuration settings (paths, API keys, parameters)
+├── requirements.txt          # Python dependencies
+├── run.py                    # Entry point to run the application
+├── screenshot.jpg            # Screenshot of the app
+├── sqlite.db                 # SQLite database for storing application data
+
+
 ### 🎯 Core Features
 
 #### **Multi-Source Text Processing**
