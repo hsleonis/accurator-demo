@@ -4,6 +4,7 @@ A Flask-based web application for **comparative text summarization** with user f
 
 Here’s the overall repo structure for the research project:
 
+````
 accurator-demo/
 ├── app/                     # Application-specific code for the demo (API, web app, UI components)
 ├── data/                    # Dataset files (XML, CSV etc.) used for model training/analysis
@@ -16,7 +17,7 @@ accurator-demo/
 ├── run.py                    # Entry point to run the application
 ├── screenshot.jpg            # Screenshot of the app
 ├── sqlite.db                 # SQLite database for storing application data
-
+````
 
 ### 🎯 Core Features
 
